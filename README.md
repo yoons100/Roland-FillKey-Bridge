@@ -1,3 +1,5 @@
+![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.2-fc1ba6)](https://github.com/yoons100/Roland-FillKey-Bridge/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yoons100/Roland-FillKey-Bridge/blob/main/LICENSE)  
+
 ## Roland-FillKey-Bridge
 Roland FillKey Bridge는 Resolume 등 Spout를 지원하는 미디어 서버 앱의 RGBA 출력을  
 Roland V-1-4K INPUT 5 Fill+Key 형식으로 실시간 변환하는 브리지 프로그램입니다.
